@@ -25,16 +25,16 @@ Full Page View<br>
 
 
 
-<h2>How to Run</h2>
+##How to Run
 1. Clone the repository to your local machine:
-    
+    ```bash
     git clone https://github.com/your-username/frontend-mini-project.git
-    
+    ```
 2. Navigate to the project directory:
- 
+    ```bash
     cd frontend-mini-project
-    
-3. Open index.html in your web browser to view the project.
+    ```
+3. Open `index.html` in your web browser to view the project.
 
 <h2>Future Enhancements</h2>
 Add more interactive elements and animations to improve the user experience.
