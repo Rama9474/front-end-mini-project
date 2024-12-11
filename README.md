@@ -16,13 +16,13 @@ This project was created as part of the <b>Front-End Web Developer Bootcamp<b> c
 
 <h2>How to Run</h2>
 1. Clone the repository to your local machine:
-    <code>
+    
     git clone https://github.com/your-username/frontend-mini-project.git
-    </code><br>
+    <br>
 2. Navigate to the project directory:
-    <code>
+ 
     cd frontend-mini-project
-    </code><br>
+    <br>
 3. Open index.html in your web browser to view the project.
 
 <h2>Future Enhancements</h2>
