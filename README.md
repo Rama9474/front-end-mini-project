@@ -18,6 +18,7 @@ This project was created as part of the <b>Front-End Web Developer Bootcamp<b> c
 Below is a screenshot of the webpage:
 
 ![Webpage Screenshot](assets/output.png)
+![Webpage Screenshot](assets/outputscroll.png)
 
 
 <h2>How to Run</h2>
