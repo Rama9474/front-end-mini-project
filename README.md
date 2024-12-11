@@ -15,10 +15,15 @@ This project was created as part of the <b>Front-End Web Developer Bootcamp<b> c
 - <b>Google Fonts</b>for enhanced typography.<br>
 ## Preview
 
-Below is a screenshot of the webpage:
+Preview
 
-![Webpage Screenshot](assets/output.png)
-![Webpage Screenshot](assets/outputscroll.png)
+Below are screenshots of the webpage:
+
+Full Page View
+![Full Page Screenshot](assets/output.png)
+
+Product Section
+![Product Section Screenshot](assets/outputscroll.png)
 
 
 <h2>How to Run</h2>
