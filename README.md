@@ -19,10 +19,10 @@ Preview
 
 Below are screenshots of the webpage:
 
-Full Page View
+Full Page View<br>
 ![Full Page Screenshot](assets/output.png)
 
-Product Section
+Product Section<br>
 ![Product Section Screenshot](assets/outputscroll.png)
 
 
