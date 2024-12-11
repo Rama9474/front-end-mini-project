@@ -5,8 +5,8 @@
 This project was created as part of the <b>Front-End Web Developer Bootcamp<b> course on Udemy. It includes several enhancements to showcase my skills in HTML, CSS, and responsive design. The project features a visually appealing hero section with a background blur and a form with interactive button animations. The product grid section showcases a responsive design with hover effects and custom box shadows.
 
 <h2>Key Features</h2>
-- <b>Responsive Design<b>: The layout adapts seamlessly to different screen sizes, making the project mobile-friendly.
-- <strong>Enhanced Styling<strong>: Includes custom fonts, box shadows, hover effects, and a background blur for improved visual appeal.
+- <b>Responsive Design<b>: The layout adapts seamlessly to different screen sizes, making the project mobile-friendly.<br>
+- <strong>Enhanced Styling<strong>: Includes custom fonts, box shadows, hover effects, and a background blur for improved visual appeal.<br>
 -<b>Interactive Elements<b>: Buttons and product images have animations for better user interaction.
 
 <h2>Technologies Used</h2>
