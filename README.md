@@ -13,6 +13,12 @@ This project was created as part of the <b>Front-End Web Developer Bootcamp<b> c
 - <b>HTML</b> for structuring the webpage.<br>
 - <b>CSS</b> for custom styling and animations.<br>
 - <b>Google Fonts</b>for enhanced typography.<br>
+## Preview
+
+Below is a screenshot of the webpage:
+
+![Webpage Screenshot](assets/output.png)
+
 
 <h2>How to Run</h2>
 1. Clone the repository to your local machine:
