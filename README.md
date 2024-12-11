@@ -25,7 +25,8 @@ Full Page View<br>
 
 
 
-##How to Run
+<h2>How to Run</h2>
+
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/your-username/frontend-mini-project.git
