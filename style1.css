@@ -23,7 +23,7 @@ body {
     background-repeat: no-repeat;
     position: relative;
     opacity: 0.9;
-    filter: blur(5px);}
+    filter: blur(0.7px);}
 
 .hero-wrapper {
     color: #fff;
