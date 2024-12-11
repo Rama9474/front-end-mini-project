@@ -22,8 +22,7 @@ Below are screenshots of the webpage:
 Full Page View<br>
 ![Full Page Screenshot](assets/output.png)
 
-Product Section<br>
-![Product Section Screenshot](assets/outputscroll.png)
+
 
 
 <h2>How to Run</h2>
